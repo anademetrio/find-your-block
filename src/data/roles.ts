@@ -1,4 +1,4 @@
-const data = [
+const data: { image: string, title: string, local: string, state: string, long: string, lat: string }[] = [
     {
         image: "o-python-do-vovo-nao-sobe-mais",
         title: "O Python do vovô não sobe mais",
